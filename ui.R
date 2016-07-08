@@ -15,11 +15,11 @@ shinyUI(fluidPage(
   sidebarLayout(
     sidebarPanel(
       selectInput(
-        'e0', 'Select Transition Period', choices = transitions,
+        'transitionPeriod', 'Select Transition Period', choices = transitions,
         selectize = FALSE
       ),
       selectInput(
-        'e1', 'Select Interaction Type',
+        'interType', 'Select Interaction Type',
         choices = overall,
         selectize = FALSE
       ),
