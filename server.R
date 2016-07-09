@@ -22,6 +22,18 @@ shinyServer(function(input, output, clientData, session) {
     else {
       transitionPeriod <- "Elementary"
     }
+    
+    interType <- input$interType
+    if(interType %in% c("school-by-student interaction", "school-by-school interaction")) {
+      g1 <- "School"
+    }
+    else {
+      g1 <- "Student"
+    }
+    if(interType %in% "student-by-student interaction") {
+      g2 <- 
+    }
+
     overall <-  unique(description$Meaning[description$Level == "Overall" & description$Type == transitionPeriod])
     # Text =====================================================
     # Change both the label and the text
