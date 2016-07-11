@@ -1,73 +1,1 @@
-Type,Notation,Level,Meaning
-Elementary,s1 ,Overall, school-by-student interaction
-Elementary,s2 ,Overall, school-by-school interaction
-Elementary,s3 ,Overall, student-by-student interaction
-Elementary,all ,School, all public schools included in the analysis
-Elementary,t1y ,School, Title I school
-Elementary,t1n ,School, Non-Title I school
-Elementary,region1 ,School, Northeast region
-Elementary,region2 ,School, Midwest region
-Elementary,region3 ,School, South region
-Elementary,region4 ,School, West region
-Elementary,city ,School, City location
-Elementary,suburb ,School, Suburb location
-Elementary,ruralt ,School, Rural or town location
-Elementary,enrl ,School, Small school enrollment (less than 500 students)
-Elementary,enrh ,School, Large school enrollment (500 or more students)
-Elementary,min1 ,School, Low minority concentration (less than 25% of students are underrepresented minority)
-Elementary,min2 ,School, Medium minority concentration (25-49% of students are underrepresented minority)
-Elementary,min3 ,School, High minority concentration (at least 50% of students are underrepresented minority)
-Elementary,frl1 ,School, Low FRPL concentration (less than 25% of students are eligible for free/reduced lunch)
-Elementary,frl2 ,School, Medium FRPL concentration (25-49% of students are eligible for free/reduced lunch)
-Elementary,frl34 ,School, High FRPL concentration (at least 50% of students are eligible for free/reduced lunch)
-Elementary,dsize1 ,School, Smalls-sized district (less than 5 schools in the district)
-Elementary,dsize2 ,School, Medium-sized district (5-19 schools in the district)
-Elementary,dsize3 ,School, Large-sized district (at least 20 schools in the district)
-High School,s1 ,Overall, school-by-student interaction
-High School,s2 ,Overall, school-by-school interaction
-High School,s3 ,Overall, student-by-student interaction
-High School,enrl ,School," Small school enrollment (less than 1,500 students)"
-High School,enrh ,School," Large school enrollment (1,500 or more students)"
-High School,dsize1 ,School, Smalls-sized district (less than 5 schools in the district)
-High School,dsize2 ,School, Medium-sized district (5-9 schools in the district)
-High School,dsize3 ,School, Large-sized district (at least 10 schools in the district)
-High School,all ,Student, all students included in the analysis
-High School,male ,Student, Male students
-High School,female ,Student, Female students
-High School,ethblk ,Student, African American / Black students
-High School,ethlat ,Student, Hispanic/Latino students
-High School,ethwht ,Student, White students
-High School,ethapi ,Student, Asian/Pacific Islander students
-High School,sesl ,Student, Low socioeconomic status (bottom two quintiles)
-High School,sesh ,Student, High socioeconomic status (top two quintiles)
-High School,ssml ,Student, Low math achievement (bottom two quintiles)
-High School,ssmh ,Student, High math achievement (top two quintiles)
-High School,ssrl ,Student, Low reading achievement (bottom two quintiles)
-High School,ssrh ,Student, High reading achievement (top two quintiles)
-High School,swdy ,Student, Student with a disability
-High School,swdn ,Student, Not a student with a disability
-High School,ell ,Student, Non-native English speaker or home language other than English
-High School,elln ,Student, Native English speaker or home language is English
-High School,s1 ,Student, school-by-student interaction
-High School,s2 ,Student, school-by-school interaction
-High School,s3 ,Student, student-by-student interaction
-Elementary,all ,Student, all students included in the analysis
-Elementary,male ,Student, Male students
-Elementary,female ,Student, Female students
-Elementary,ethblk ,Student, African American / Black students
-Elementary,ethlat ,Student, Hispanic/Latino students
-Elementary,ethwht ,Student, White students
-Elementary,ethapi ,Student, Asian/Pacific Islander students
-Elementary,sesl ,Student, Low socioeconomic status (bottom two quintiles)
-Elementary,sesh ,Student, High socioeconomic status (top two quintiles)
-Elementary,ssml ,Student, Low math achievement (bottom two quintiles)
-Elementary,ssmh ,Student, High math achievement (top two quintiles)
-Elementary,ssrl ,Student, Low reading achievement (bottom two quintiles)
-Elementary,ssrh ,Student, High reading achievement (top two quintiles)
-Elementary,swdy ,Student, Student with a disability
-Elementary,swdn ,Student, Not a student with a disability
-Elementary,ell ,Student, Non-native English speaker or home language other than English
-Elementary,elln ,Student, Native English speaker or home language is English
-Elementary,s1 ,Student, school-by-student interaction
-Elementary,s2 ,Student, school-by-school interaction
-Elementary,s3 ,Student, student-by-student interaction
+Type,Notation,Level,MeaningElementary,s1 ,Overall, school-by-student interactionElementary,s2 ,Overall, school-by-school interactionElementary,s3 ,Overall, student-by-student interactionElementary,all ,School, all public schools included in the analysisElementary,t1y ,School, Title I schoolElementary,t1n ,School, Non-Title I schoolElementary,region1 ,School, Northeast regionElementary,region2 ,School, Midwest regionElementary,region3 ,School, South regionElementary,region4 ,School, West regionElementary,city ,School, City locationElementary,suburb ,School, Suburb locationElementary,ruralt ,School, Rural or town locationElementary,enrl ,School, Small school enrollment (less than 500 students)Elementary,enrh ,School, Large school enrollment (500 or more students)Elementary,min1 ,School, Low minority concentration (less than 25% of students are underrepresented minority)Elementary,min2 ,School, Medium minority concentration (25-49% of students are underrepresented minority)Elementary,min3 ,School, High minority concentration (at least 50% of students are underrepresented minority)Elementary,frl1 ,School, Low FRPL concentration (less than 25% of students are eligible for free/reduced lunch)Elementary,frl2 ,School, Medium FRPL concentration (25-49% of students are eligible for free/reduced lunch)Elementary,frl34 ,School, High FRPL concentration (at least 50% of students are eligible for free/reduced lunch)Elementary,dsize1 ,School, Smalls-sized district (less than 5 schools in the district)Elementary,dsize2 ,School, Medium-sized district (5-19 schools in the district)Elementary,dsize3 ,School, Large-sized district (at least 20 schools in the district)High School,s1 ,Overall, school-by-student interactionHigh School,s2 ,Overall, school-by-school interactionHigh School,s3 ,Overall, student-by-student interactionHigh School,all ,School, all public schools included in the analysisHigh School,t1y ,School, Title I schoolHigh School,t1n ,School, Non-Title I schoolHigh School,region1 ,School, Northeast regionHigh School,region2 ,School, Midwest regionHigh School,region3 ,School, South regionHigh School,region4 ,School, West regionHigh School,city ,School, City locationHigh School,suburb ,School, Suburb locationHigh School,ruralt ,School, Rural or town locationHigh School,enrl ,School," Small school enrollment (less than 1,500 students)"High School,enrh ,School," Large school enrollment (1,500 or more students)"High School,min1 ,School, Low minority concentration (less than 25% of students are underrepresented minority)High School,min2 ,School, Medium minority concentration (25-49% of students are underrepresented minority)High School,min3 ,School, High minority concentration (at least 50% of students are underrepresented minority)High School,frl1 ,School, Low FRPL concentration (less than 25% of students are eligible for free/reduced lunch)High School,frl2 ,School, Medium FRPL concentration (25-49% of students are eligible for free/reduced lunch)High School,frl34 ,School, High FRPL concentration (at least 50% of students are eligible for free/reduced lunch)High School,dsize1 ,School, Smalls-sized district (less than 5 schools in the district)High School,dsize2 ,School, Medium-sized district (5-9 schools in the district)High School,dsize3 ,School, Large-sized district (at least 10 schools in the district)High School,all ,Student, all students included in the analysisHigh School,male ,Student, Male studentsHigh School,female ,Student, Female studentsHigh School,ethblk ,Student, African American / Black studentsHigh School,ethlat ,Student, Hispanic/Latino studentsHigh School,ethwht ,Student, White studentsHigh School,ethapi ,Student, Asian/Pacific Islander studentsHigh School,sesl ,Student, Low socioeconomic status (bottom two quintiles)High School,sesh ,Student, High socioeconomic status (top two quintiles)High School,ssml ,Student, Low math achievement (bottom two quintiles)High School,ssmh ,Student, High math achievement (top two quintiles)High School,ssrl ,Student, Low reading achievement (bottom two quintiles)High School,ssrh ,Student, High reading achievement (top two quintiles)High School,swdy ,Student, Student with a disabilityHigh School,swdn ,Student, Not a student with a disabilityHigh School,ell ,Student, Non-native English speaker or home language other than EnglishHigh School,elln ,Student, Native English speaker or home language is EnglishHigh School,s1 ,Overall, school-by-student interactionHigh School,s2 ,Overall, school-by-school interactionHigh School,s3 ,Overall, student-by-student interactionElementary,all ,Student, all students included in the analysisElementary,male ,Student, Male studentsElementary,female ,Student, Female studentsElementary,ethblk ,Student, African American / Black studentsElementary,ethlat ,Student, Hispanic/Latino studentsElementary,ethwht ,Student, White studentsElementary,ethapi ,Student, Asian/Pacific Islander studentsElementary,sesl ,Student, Low socioeconomic status (bottom two quintiles)Elementary,sesh ,Student, High socioeconomic status (top two quintiles)Elementary,ssml ,Student, Low math achievement (bottom two quintiles)Elementary,ssmh ,Student, High math achievement (top two quintiles)Elementary,ssrl ,Student, Low reading achievement (bottom two quintiles)Elementary,ssrh ,Student, High reading achievement (top two quintiles)Elementary,swdy ,Student, Student with a disabilityElementary,swdn ,Student, Not a student with a disabilityElementary,ell ,Student, Non-native English speaker or home language other than EnglishElementary,elln ,Student, Native English speaker or home language is English
