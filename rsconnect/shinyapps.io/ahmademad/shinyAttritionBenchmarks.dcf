@@ -2,8 +2,8 @@ name: shinyAttritionBenchmarks
 account: ahmademad
 server: shinyapps.io
 appId: 113618
-bundleId: 501359
+bundleId: 523503
 url: https://ahmademad.shinyapps.io/shinyAttritionBenchmarks/
-when: 1468207384.69315
+when: 1470284793.16284
 asMultiple: FALSE
 asStatic: FALSE
